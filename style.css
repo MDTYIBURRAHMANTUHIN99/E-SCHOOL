@@ -1,0 +1,87 @@
+.navbar-brand img
+{
+    width: 100px;
+}
+.sing-up
+{
+    background-color: #21B573;
+    border: none;
+    border-radius: 15px;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+#text-clore
+{
+    color: #FD511A;
+}
+.text-clore
+{
+    color: #6C6B6B;
+}
+.h1-style
+{
+    color: #21B573;
+}
+.secand-part
+{
+    margin-top: 50px;
+}
+.cat1 img{
+    width: 100px;
+}
+.car1
+{
+    float: left;
+}
+.Learn-Anythings
+{
+    margin-top: 100px;
+}
+.card
+{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.icon
+{
+    width: 20px;
+}
+.Buy-Course
+{
+    margin-bottom: 100px;
+}
+.card-footer
+{
+    border: none;
+    background-color: #FFFFFF;
+}
+.man img{
+    width: 120px;
+}
+.text-cloer
+{
+    background-color: #282531;
+    color: white;
+}
+
+small
+{
+    text-align: center;
+}
+.gr-clore
+{
+    background-color: #282531;
+}
+.ul li
+{
+    list-style: none;
+}
+footer
+{
+    color: white;
+    text-align: center;
+}
